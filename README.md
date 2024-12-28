@@ -25,8 +25,6 @@ Credential Harvester Attack Method
 ### 6. Informar o URL para clonar
 https://www.instagram.com
 
-### Resutados
-
-https://github.com/agsilvamhm/dio-cibersecurity-desafio-phishing/blob/main/Tela_com_login_senha.png
+### Resultado
 
 ![Alt text](./Tela_com_login_senha.png "Optional title")
